@@ -4,9 +4,11 @@
 
 .bg-mobile-image {
     position: relative;
+    text-align: center;
     background-image: url(../images//bg-intro-mobile.svg);
     background-repeat: no-repeat;
-    background-size: inherit;
+    background-size: cover;
+    background-position: right;
 }
 
 .hero-images-mobile {
@@ -25,6 +27,7 @@ header {
 }
 
 header .description {
+    margin: auto;
     text-align: center;
 }
 
@@ -46,7 +49,7 @@ header .description button {
 }
 
 .latest-articles figure.main-card img {
-    height: 200px;
+    height: auto;
 }
 
 footer {
