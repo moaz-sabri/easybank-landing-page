@@ -1,0 +1,72 @@
+* {
+    /* text-align: center; */
+}
+
+.bg-mobile-image {
+    position: relative;
+    background-image: url(../images//bg-intro-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: inherit;
+}
+
+.hero-images-mobile {
+    position: relative;
+    height: 280px;
+    bottom: 130px;
+}
+
+.hero-images-mobile .mockups {
+    width: 100%;
+    max-width: 375px;
+}
+
+header {
+    height: 400px;
+}
+
+header .description {
+    text-align: center;
+}
+
+header .description button {
+    margin: 0 auto;
+}
+
+.choose-easybank {
+    text-align: center;
+}
+
+.choose-easybank p {
+    width: 80%;
+    margin: auto;
+}
+
+.latest-articles h2 {
+    text-align: center;
+}
+
+.latest-articles figure.main-card img {
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer div section .part-1 div {
+    position: relative;
+    margin: 1.5rem 0;
+}
+
+footer div section .part-2 ul {
+    margin: 0;
+}
+
+footer div section .part-2 ul li {
+    margin: 0.5rem 0;
+}
+
+footer div section .part-3 {
+    margin-top: 1rem;
+    text-align: center;
+}
